@@ -17,12 +17,12 @@
     "postinstall": "node post_install.js"
   },
   "dependencies": {
-    "@slack/client": "^3.14.0",
+    "@slack/client": "^5.0.0",
     "async": "^2.5.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
-    "bitfinex-api-node": "^1.2.0",
+    "bitfinex-api-node": "^4.0.11",
     "bitstamp": "^1.0.4",
     "bl": "^1.2.1",
     "bollinger-bands": "^3.0.1",
@@ -91,7 +91,7 @@
     "waypoints": "^4.0.1",
     "webpack": "^3.10.0",
     "wexnz": "^0.1.3",
-    "ws": "^4.0.0",
+    "ws": "^7.4.6",
     "zero-fill": "^2.2.3"
   },
   "devDependencies": {
